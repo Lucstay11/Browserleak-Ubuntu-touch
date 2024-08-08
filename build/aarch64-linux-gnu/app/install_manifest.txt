@@ -1,7 +1,0 @@
-//browserleak
-//manifest.json
-//browserleak.apparmor
-//assets/icon-splash.png
-//assets/icon.png
-//browserleak.desktop
-/share/locale/nl/LC_MESSAGES/browserleak.lucstay11.mo
