@@ -1,0 +1,16 @@
+{
+    "policy_groups": [
+         "webview",
+         "networking",
+         "audio",
+         "video",
+         "keep-display-on",
+         "microphone",
+         "location",
+         "sensors",
+         "usermetrics"
+        
+    ],
+    "policy_version": 20.04
+}
+
